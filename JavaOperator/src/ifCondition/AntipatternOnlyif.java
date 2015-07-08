@@ -5,7 +5,7 @@ package ifCondition;
  * @ Author : me
  * @ Story : if 구문
  * */
-public class Onlyif {
+public class AntipatternOnlyif {
 	public static void main(String[] args) {
 		/*
 		 * 구문(statement) 자바 연산식에서 3가지 종류의 구문으로 나뉜다.
