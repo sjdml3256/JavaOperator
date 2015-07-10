@@ -1,4 +1,4 @@
-package ifCondition;
+package Condition;
 
 import java.util.Scanner;
 

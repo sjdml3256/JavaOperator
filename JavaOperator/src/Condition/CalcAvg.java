@@ -1,9 +1,9 @@
-package ifCondition;
+package Condition;
 
 import java.util.Scanner;
 
 public class CalcAvg {
-	public void CalcAvg(){
+	public void Calc(){
 		
 				int kor=0,eng = 0,math=0,total=0,avg=0;
 				String name = "",pass ="";
